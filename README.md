@@ -8,7 +8,7 @@
 
 <img src = "./Demo_Images/2.png" width = 400 height = 250> <p>Buyer Homepage</p> <hr>
 
-<img src = "./Demo_Images/3.png" width = 400 height = 250> <p>Product</p> <hr>
+<img src = "./Demo_Images/3.png" width = 400 height = 250> <p>Products </p> <hr>
 
 <img src = "./Demo_Images/4.png" width = 400 height = 250> <p> Categorical and Location Wise Search</p> <br> 
 
