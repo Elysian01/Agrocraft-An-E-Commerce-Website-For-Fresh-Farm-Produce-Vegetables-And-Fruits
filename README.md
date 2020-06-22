@@ -2,7 +2,7 @@
 
 ### Starter Images
 
-<img src = "./Demo_Images/1.png" width = 500 height = 250>
+<img src = "./Demo_Images/1.png" width = 500 height = 250> <br> <hr> <br>
 <img src = "./Demo_Images/2.png" width = 500 height = 250>
 <img src = "./Demo_Images/3.png" width = 500 height = 250>
 <img src = "./Demo_Images/4.png" width = 500 height = 250>
