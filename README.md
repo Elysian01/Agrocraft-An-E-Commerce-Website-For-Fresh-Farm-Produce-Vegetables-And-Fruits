@@ -7,8 +7,11 @@
 <img src = "./Demo_Images/1.png" width = 400 height = 250 align = center> <br> <hr> <br>
 
 <img src = "./Demo_Images/2.png" width = 400 height = 250> <br> <hr> 
+<p>Buyer Homepage</p>
 <img src = "./Demo_Images/3.png" width = 400 height = 250> <br> <hr> 
+<p>Product</p>
 <img src = "./Demo_Images/4.png" width = 400 height = 250> <br> 
+<p> Categorical and Location Wise Search</p>
 </div>
 
 <div align= "center">  
