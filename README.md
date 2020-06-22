@@ -8,7 +8,7 @@
 
 <img src = "./Demo_Images/2.png" width = 400 height = 250> <br> <hr> 
 <img src = "./Demo_Images/3.png" width = 400 height = 250> <br> <hr> 
-<img src = "./Demo_Images/4.png" width = 400 height = 250> <br> <hr> 
+<img src = "./Demo_Images/4.png" width = 400 height = 250> <br> 
 </div>
 
 <div align= "center">  
