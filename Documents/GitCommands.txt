@@ -1,0 +1,17 @@
+
+# To Submit all the work :- 
+
+git status
+
+git add .
+
+git commit -m "message"
+
+git pull
+
+git push origin master
+
+
+# To Update Repository :-
+
+git pull

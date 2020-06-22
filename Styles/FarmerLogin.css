@@ -1,0 +1,65 @@
+#a {
+    text-align: center;
+    /*font-size: 35px;*/
+    /*border-style: solid;*/
+    /*margin-border-top: 8%;*/
+    margin-top: 5%;
+    margin-left: 28%;
+    margin-right: 20%;
+    margin-bottom: 18%;
+    max-width: 40%;
+    min-width: 20%;
+}
+
+body {
+    position: relative;
+    background-image: url(../Images/Website/FarmerLogin.jpg);
+    /*ckground-repeat:no-repeat;*/
+    /*background-position: center center;*/
+    text-align: center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+#x {
+    font-size: 30px;
+    border-radius: 25%;
+    background-color: transparent;
+}
+
+#x:hover {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    font-size: 40px;
+    background-color: black;
+    color: white;
+}
+
+input {
+    font-size: 30px;
+    padding: auto;
+    background-color: transparent;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    border-color: black;
+}
+
+#forgotPassword {
+    margin: auto;
+    float: left;
+    font-size: 20px;
+}
+
+#link {
+    color: green;
+    text-decoration: lawngreen;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(246, 248, 246);
+    background-color: green;
+    /* display: inline-block; */
+    border-radius: 16px;
+    border-color: rgb(3, 66, 34);
+    width: 44%;
+}

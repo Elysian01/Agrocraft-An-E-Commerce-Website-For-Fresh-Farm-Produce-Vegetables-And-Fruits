@@ -1,0 +1,47 @@
+go to that directory ,...->right click ...open git bash here
+....
+cmds
+...     git status
+
+	git init
+....====to initialize the directory
+ 
+	git status
+
+	git add .
+    
+        git commit -m "changes that had been done"
+
+        for configure:    git config --global user.name " "
+      
+	git log
+
+
+for pushing or adding to repository
+.....
+        git remote add origin "git link"
+...==>adding origin to your directories files through bash
+  
+        git push -u origin master
+    
+####Enjoy your code has been added@@@@
+
+if you don't have an SSH key you have to generate one.
+follow the github documentation...
+...............
+to see what changes have been done 
+...
+       git diff filename
+
+to set back as previous
+...
+      git checkout .
+
+ 
+   
+												..By Omkar(Oscar11)
+
+        
+    
+        
+        

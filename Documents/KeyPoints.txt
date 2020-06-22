@@ -1,0 +1,8 @@
+Farmer Validation Feature either online or offline (Trust Coin)
+
+product id :- 4 number  product class (leafy , root) ,classifications :- after you see product number then u know what is coming
+
+CRM & ERP :- product specification :- product type ,farmer trust coin => rejected product (rotten) , 
+					quality of product , farmer delivery in time or not , profit and loss analysis .
+
+Google Lens :- to identify photos 

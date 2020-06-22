@@ -1,0 +1,54 @@
+CREATE TABLE `buyerregistration` (
+  `buyer_id` int(255) NOT NULL AUTO_INCREMENT,
+  `buyer_name` varchar(30) NOT NULL,
+  `buyer_phone` int(10) NOT NULL,
+  `buyer_addr` text NOT NULL,
+  `buyer_comp` varchar(100) NOT NULL,
+  `buyer_license` varchar(100) NOT NULL,
+  `buyer_bank` int(16) NOT NULL,
+  `buyer_pan` varchar(10) NOT NULL,
+  `buyer_mail` varchar(20) NOT NULL,
+  `buyer_username` varchar(20) NOT NULL,
+  `buyer_password` varchar(20) NOT NULL,
+  `buyer_conf_pswd` varchar(20) NOT NULL,
+  PRIMARY KEY (`buyer_id`),
+  UNIQUE KEY `buyer_username` (`buyer_username`)
+)
+
+
+
+ CREATE TABLE `categories` (
+  `cat_id` int(11) NOT NULL AUTO_INCREMENT,
+  `cat_title` varchar(100) NOT NULL,
+  PRIMARY KEY (`cat_id`)
+)
+
+
+CREATE TABLE `farmerregistration` (
+  `farmer_id` int(255) NOT NULL AUTO_INCREMENT,
+  `farmer_name` varchar(255) NOT NULL,
+  `farmer_phone` int(10) NOT NULL,
+  `farmer_address` text NOT NULL,
+  `farmer_pan` varchar(10) NOT NULL,
+  `farmer_bank` int(16) NOT NULL,
+  `farmer_password` varchar(100) NOT NULL,
+  `farmer_conf_pswd` varchar(100) NOT NULL,
+  PRIMARY KEY (`farmer_id`)
+)
+
+ CREATE TABLE `products` (
+  `product_id` int(100) NOT NULL AUTO_INCREMENT,
+  `product_title` varchar(100) NOT NULL,
+  `farmer_fk` varchar(100) NOT NULL,
+  `product_cat` varchar(100) NOT NULL,
+  `product_image` text NOT NULL,
+  `product_stock` int(100) NOT NULL,
+  `product_price` int(100) NOT NULL,
+  `product_desc` text NOT NULL,
+  `product_keywords` text NOT NULL,
+  `product_delivery` varchar(4) NOT NULL,
+  PRIMARY KEY (`product_id`)
+)
+
+
+

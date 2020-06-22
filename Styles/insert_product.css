@@ -1,0 +1,71 @@
+                    body {
+                        background-image: url(../Images/Website/FarmerLogin.jpg);
+                        position: relative;
+                        text-align: center;
+                        background-size: 30px;
+                        background-attachment: fixed;
+                        background-size: cover;
+                        font-family: 'Times New Roman', Times, serif;
+                        border-collapse: collapse;
+                    }
+                    /* #prodesc {
+                        border-color: transparent;
+                    }
+                    
+                    #protitle {
+                        border-color: transparent;
+                    }
+                    
+                    #procat {
+                        border-color: transparent;
+                    }
+                    
+                    #proimg {
+                        border-color: transparent;
+                    }
+                    
+                    #prostock {
+                        border-color: transparent;
+                    }
+                    
+                    #propriceMax {
+                        border-color: transparent;
+                    }
+                    
+                    #propriceMin {
+                        border-color: transparent;
+                    }
+                    
+                    #prokey {
+                        border-color: transparent;
+                    }
+                    
+                    #dev {
+                        border-color: transparent;
+                    }
+                    
+                    #ins {
+                        border-color: transparent;
+                    }
+                     */
+                    
+                    #insnow {
+                        border-color: transparent;
+                        width: 200px;
+                        height: 40px;
+                        background-color: lawngreen;
+                    }
+                    /*                     
+                    #yes {
+                        border-color: transparent;
+                    }
+                    
+                    #no {
+                        border-color: transparent;
+                    } */
+                    
+                    #tab {
+                        border-color: transparent;
+                        font-size: 19px;
+                        table-layout: fixed;
+                    }

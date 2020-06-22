@@ -1,0 +1,196 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+    background-color: rgb(213, 231, 238);    
+}
+
+.main_wrapper{
+    background-color: rgb(21, 243, 69);
+}
+
+.header_wrapper {
+    height : 80px;
+    background-color: rgb(21, 243, 69);
+}
+
+.menubar{
+    width: 1000px;
+    height: 50px;
+    background-color: rgb(0, 3, 10);
+    color: black;
+}
+
+#menu {
+    padding: 0;
+    margin: 0;
+    line-height: 45px; 
+    float :left;  
+}
+
+#menu li{      /*To select li tag inside menu division*/
+    list-style: none;  /*To remove bullets*/
+    display: inline; /*to display in same row */
+}
+
+#menu a{
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+    margin: 5px;
+    font-size: 18px;
+    font-family: COMIC SANS MS;
+}
+
+#menu a:hover{
+    color: orange;
+    font-weight: bolder;
+    text-decoration: underline;
+
+}
+
+#form input {
+    margin-left:100px;
+    margin-top: 25px;
+    width : 500px;
+    /* padding-right: 20px; */
+    line-height: 35px;
+}
+
+#labels{
+    color:white;
+    text-decoration: none;
+    padding : 20px;
+    margin-left: 15%;
+}
+
+#cartbutton{
+    width: 100px;
+    margin-left:10px;
+    line-height: 45px;
+}
+
+#profilebutton{
+    float : right;
+    width:50px;
+    margin-top: 25px;
+    margin-right:60px;
+    line-height: 45px;
+}
+
+#OnlineShop{
+    float:left;
+    margin: .5%;
+    margin-left: 5%;
+}
+#Adbanner{
+    float : right;
+}
+
+.content_wrapper{
+    width: 1000px;
+    margin: auto;
+    background-color: pink;
+}
+
+#sidebar{
+    width: 200px;
+    float:left;
+    background-color: black;
+}
+
+#sidebar_title{
+    background-color: white;
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Arial;
+    padding: 10px;
+    text-align: center;
+}
+
+#cats{
+    font-size: 21px;
+    list-style: none;
+    display: block;
+}
+
+#cats a{
+    color: white;
+    text-decoration: none;
+}
+#cats li {
+    margin: 6px;
+    text-align: center;
+}
+#cats a:hover{
+    color: yellowgreen;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+#content_area{
+    width: 800px;
+    float:right;
+    background-color: rgb(132, 246, 246);
+}
+
+#shopping_cart {
+    border : 2px solid white; 
+    widows: 800px;
+    height:50px;
+    background-color: black;
+    color: antiquewhite;
+}
+
+#product_box {
+    width:780px;
+    text-align: center;
+    margin-left: 30px;
+    margin-bottom:10px ;
+}
+
+#single_product{
+    float:left;
+    margin-left:30px ;
+    padding: 10px;
+}
+
+#single_product img{
+    border: 2px solid black;
+}
+
+
+
+#footer{
+    width: 1000px;
+    height: 100px;
+    clear: both;
+    background-color:grey;
+}

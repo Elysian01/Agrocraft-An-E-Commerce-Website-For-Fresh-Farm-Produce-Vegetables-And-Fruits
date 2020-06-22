@@ -1,0 +1,255 @@
+.header {
+    height: 50px;
+    width: 100%;
+    background-color: #00b300;
+}
+
+#logo {
+    height: 50px;
+    width: 100px;
+    text-align: left;
+    float: left;
+}
+
+.search_input {
+    float: left;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.proicon {
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.icon2 {
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.loginz {
+    float: right;
+    margin-right: 80px;
+    margin-left: 570px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.slideshow {
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    /*background-color: black;*/
+}
+
+#input1 {
+    border: none;
+}
+
+#input1:active {
+    background-color: tomato;
+}
+
+#opt {
+    height: 50px;
+    width: 100%;
+    background-color: red;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+#bas {
+    float: left;
+    /*margin-top: 15px;*/
+    background-color: #FFD700;
+    height: 50px;
+}
+
+#abc {
+    float: right;
+    /*margin-top: 15px;*/
+    background-color: #FFD700;
+    height: 50px;
+}
+
+#cde {
+    float: left;
+    margin-left: 680px;
+    /*margin-top: 15px;*/
+    background-color: #FFD700;
+    height: 50px;
+}
+
+.carousel-indicators {
+    list-style: none;
+    background-color: transparent;
+}
+
+.carousel-control-prev {
+    margin-left: 60px;
+    /*color: red;*/
+    margin-top: 10px;
+}
+
+.carousel-control-next {
+    margin-right: 60px;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    grid-column-gap: 20px;
+    grid-row-gap: 10px;
+    grid-column-gap: 20px;
+    grid-row-gap: 10px;
+    margin-left: 30px;
+}
+
+.inputwrapper {
+    float: left;
+    border-style: double;
+    text-align: center;
+    margin-left: 80px;
+    width: 200px;
+    margin-bottom: 20px;
+    clear: auto;
+}
+
+.inputwrapper:last-child {
+    grid-column-gap: 20px;
+    grid-row-gap: 10px;
+    margin-left: 30px;
+}
+
+.carousel-control-next {
+    margin-right: 60px;
+}
+
+.addtocart {
+    background-color: #FFD700;
+}
+
+.numberinput {
+    width: 35px;
+}
+
+.tabless {
+    border-collapse: separate;
+    border-spacing: 20px;
+    padding: 20px;
+    border-style: solid;
+    margin: 10px;
+    /*background-color: red;*/
+    border-width: 5px;
+    border-radius: 16px;
+    border-color: black;
+    text-align: center;
+    align-items: center;
+    min-width: 500px;
+}
+
+.picha {
+    height: 300px;
+    width: 500px;
+    background-color: red;
+}
+
+.images {
+    min-width: 400px;
+    box-shadow: 5px 5px 10px grey;
+}
+
+#heading {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    background-color: black;
+    justify-content: center;
+}
+
+.addtocart {
+    background-color: #FFD700;
+}
+
+.bestselers {
+    background-color: red;
+    border-style: solid;
+    float: left;
+    margin-top: 10px;
+    /*margin: 20px;*/
+    margin-bottom: 10px;
+    margin-right: 40px;
+    margin-left: 45px;
+}
+
+.bestselers:last-child {
+    margin-right: 50px;
+}
+
+#fruits {
+    text-align: center;
+}
+
+.veg {
+    float: left;
+    margin-left: 30px;
+    border-style: solid;
+    margin-top: 10px;
+}
+
+#vegs {
+    height: 270px;
+    width: 1498px;
+    /*margin: 20px;*/
+    margin-right: 10px;
+    margin-left: 10px;
+    /*background-color: blue;*/
+    border-style: double;
+    margin-top: 20px;
+}
+
+.veg:first-child {
+    margin-left: 80px;
+}
+
+.veg:last-child {
+    margin-right: 20px;
+}
+
+#crops {
+    height: 270px;
+    width: 1498px;
+    /*margin: 20px;*/
+    margin-right: 10px;
+    margin-left: 10px;
+    /*background-color: blue;*/
+    border-style: double;
+    margin-top: 20px;
+}
+
+.crop:first-child {
+    margin-left: 80px;
+}
+
+.crop:last-child {
+    margin-right: 20px;
+}
+
+.crop {
+    /*    height: 210px;
+    width: 300px;
+*/
+    float: left;
+    /*  height: 200px;
+    width: 300px;*/
+    margin-left: 30px;
+    border-style: solid;
+    margin-top: 10px;
+}
+
+.content_item {
+    text-align: center;
+    justify-content: center;
+}

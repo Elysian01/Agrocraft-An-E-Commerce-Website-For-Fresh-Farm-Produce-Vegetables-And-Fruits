@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    /* background-image: url(images/Website/FarmerLogin.jpg); */
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    /* width: 300px; */
+    background-image: 100px;
+}
+
+#logo {
+    float: right;
+    margin-right: 2em;
+}
