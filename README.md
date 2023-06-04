@@ -7,10 +7,8 @@
 ### Starter Images
 
 
-<!-- <div align= "center">  -->
-<!-- <img src = "./Demo_Images/1.png" width = 400 height = 250 align = center>  -->
-![plot](https://github.com/Elysian01/Agrocraft-An-E-Commerce-Website-For-Fresh-Farm-Produce-Vegetables-And-Fruits/blob/master/Demo_Images/1.png)
-<!--   <br> <hr> <br>
+<div align= "center"> 
+<img src = "./Demo_Images/1.png" width = 400 height = 250 align = center> <br> <hr> <br>
 
 <img src = "./Demo_Images/2.png" width = 400 height = 250> <p>Buyer Homepage</p> <hr>
 
@@ -18,7 +16,7 @@
 
 <img src = "./Demo_Images/4.png" width = 400 height = 250> <p> Categorical and Location Wise Search</p> <br> 
 
-</div> -->
+</div>
 
 <div align= "center">  
   
